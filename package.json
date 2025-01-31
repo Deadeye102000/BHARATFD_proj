@@ -1,0 +1,30 @@
+{
+  "name": "bharatfd_proj",
+  "version": "1.0.0",
+  "description": "Backend test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deadeye102000/BHARATFD_proj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deadeye102000/BHARATFD_proj/issues"
+  },
+  "homepage": "https://github.com/Deadeye102000/BHARATFD_proj#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-validator": "^7.2.1",
+    "helmet": "^8.0.0",
+    "ioredis": "^5.4.2",
+    "mongoose": "^8.9.6",
+    "morgan": "^1.10.0"
+  }
+}
